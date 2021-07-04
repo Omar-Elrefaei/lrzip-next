@@ -1,0 +1,8 @@
+0.7.62
+bzip2-dev
+doxygen
+libgcrypt-dev
+libgpg-error-dev
+nasm-bin
+pkgconfig(zlib)
+yasm
